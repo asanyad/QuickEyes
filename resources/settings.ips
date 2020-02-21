@@ -1,0 +1,8 @@
+var ips = {
+	settings01: "lang",
+	settings02: "lang",
+	settings03: "lang",
+	settings04: "nolang",
+	settings05: "nolang",
+	settings06: "lang"
+};

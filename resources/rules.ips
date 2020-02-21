@@ -1,0 +1,4 @@
+var ips = {
+	rules01: "lang",
+	token: "gif"
+};
